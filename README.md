@@ -1,8 +1,5 @@
-# Pokemon api
+# Websocket app project
 
+Real time chat app with view with HTML
 
-## Entities
-
-## Data base
-- Postgres 
 
